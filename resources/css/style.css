@@ -265,14 +265,17 @@ footer p {
     padding-left: 0;
     padding-right: 0;
   }
-}
 
-@media only screen and (max-width: 390px) {
-  html {
-    font-size: 14px;
+  .heading {
+    font-size: 15px;
   }
+
   .logo img{
     width: 20%;
     height: auto;
   }
+}
+
+@media only screen and (max-width: 390px) {
+
 }
