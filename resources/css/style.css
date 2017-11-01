@@ -188,7 +188,7 @@ footer p {
   }
 }
 
-@media only screen and (max-width: 650px){
+@media only screen and (max-width:470px){
 
   .container, .see, .informations, .info {
     width: 100%;
@@ -274,8 +274,4 @@ footer p {
     width: 20%;
     height: auto;
   }
-}
-
-@media only screen and (max-width: 390px) {
-
 }
